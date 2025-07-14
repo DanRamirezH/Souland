@@ -1,10 +1,10 @@
 # 🎵 SOULAND - Symphonic Metal Official Website
 
-Una página web oficial para la agrupación de Metal Sinfónico Souland, diseñada exactamente como la página de Epica pero adaptada para la identidad única de la banda.
+Una página web oficial para la agrupación de Metal Sinfónico Souland.
 
 ## 🌟 Características
 
-- **Diseño Symphonic Metal**: Estilo oscuro y dramático inspirado en Epica
+- **Diseño Symphonic Metal**: Estilo oscuro y dramático
 - **Navegación Profesional**: Menú con dropdowns y navegación suave
 - **Sección de Noticias**: Últimas actualizaciones de la banda
 - **Tour Dates**: Fechas de conciertos con información detallada
